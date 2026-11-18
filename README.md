@@ -86,17 +86,3 @@ Docker/  Incus/  Arch/  OPNsense/  Wazuh/  Zabbix/
   <img src="https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white&labelColor=0b1410" alt="Zabbix" />
   <img src="https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white&labelColor=0b1410" alt="OPNsense" />
 </p>
-
-### `blokxz@lab:~$ cat ~/homelab.txt`
-
-```text
-┌───────────┬──────────────────────────────────┐
-│ Capa      │ Qué corre                        │
-├───────────┼──────────────────────────────────┤
-│ Identidad │ Active Directory                 │
-│ Perímetro │ OPNsense                         │
-│ Seguridad │ Wazuh (SOC)                      │
-│ Monitoreo │ Zabbix (NOC)                     │
-│ Cómputo   │ Docker + Incus sobre Arch Linux  │
-└───────────┴──────────────────────────────────┘
-```
