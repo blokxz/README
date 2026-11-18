@@ -100,17 +100,3 @@ Docker/  Incus/  Arch/  OPNsense/  Wazuh/  Zabbix/
 │ Cómputo   │ Docker + Incus sobre Arch Linux  │
 └───────────┴──────────────────────────────────┘
 ```
-
-### `blokxz@lab:~$ git log --oneline --graph`
-
-```text
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ✦ ACTIVITY / UPLINK ✦ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-```
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=blokxz&hide_border=true&border_radius=4&card_width=467&background=0B1410&stroke=1E3A2B&ring=39FF88&fire=FFB000&currStreakNum=E5E7EB&sideNums=39FF88&currStreakLabel=39FF88&sideLabels=7A9A88&dates=FFB000" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blokxz&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
